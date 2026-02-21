@@ -1,0 +1,29 @@
+{
+  "name": "glitching-hologram-material",
+  "version": "1.0.0",
+  "description": "A dynamic, customizable Glitching Hologram Material for Unreal Engine featuring procedural scanlines, texture-driven glitch distortion, edge glow, and artist-friendly parameter controls.",
+  "author": "Ratan D. Soni",
+  "license": "MIT",
+  "homepage": "https://github.com/RatanSoni/GlitchingHologramMaterial",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RatanSoni/GlitchingHologramMaterial.git"
+  },
+  "keywords": [
+    "unreal-engine",
+    "material",
+    "shader",
+    "hologram",
+    "glitch",
+    "vfx",
+    "tech-art",
+    "game-dev",
+    "real-time-rendering",
+    "material-function",
+    "sci-fi",
+    "procedural"
+  ],
+  "engines": {
+    "unreal": "5.6"
+  }
+}
